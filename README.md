@@ -15,10 +15,10 @@ You can view them at:
 
 ### Evangelism WG Members
 
-Mikeal Rogers (@mikeal)
-Ross Kukulinski (@rosskukulinski)
-Emily Rose (@emilyrose)
-Julian Duque (@julianduque)
-Tierney Coren (@bnb)
-Simeon Vincent (@svincent)
-Yosuke Furukawa (@yosuke-furukawa)
+Mikeal Rogers (@mikeal)  
+Ross Kukulinski (@rosskukulinski)  
+Emily Rose (@emilyrose)  
+Julian Duque (@julianduque)  
+Tierney Coren (@bnb)  
+Simeon Vincent (@svincent)  
+Yosuke Furukawa (@yosuke-furukawa)  
